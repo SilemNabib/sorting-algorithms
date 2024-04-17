@@ -6,3 +6,4 @@
  */
 
 rootProject.name = "sorting-algorithms"
+include("sorting-algorithms")
